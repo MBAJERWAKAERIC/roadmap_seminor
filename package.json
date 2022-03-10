@@ -1,0 +1,19 @@
+{
+  "name": "roadmap_seminor",
+  "version": "1.0.0",
+  "description": "fullstack devellopement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBAJERWAKAERIC/roadmap_seminor.git"
+  },
+  "author": "Mbaje Rwaka Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBAJERWAKAERIC/roadmap_seminor/issues"
+  },
+  "homepage": "https://github.com/MBAJERWAKAERIC/roadmap_seminor#readme"
+}
